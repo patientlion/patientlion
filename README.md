@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @patientlion
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning godot engine
+- 🌱 I’m currently learning pygame & godot engine
 - 📫 How to reach me: https://twitter.com/patient_lion
