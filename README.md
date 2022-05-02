@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @patientlion
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning pygame, lua, & godot engine
+- 🌱 I’m currently learning Pygame and Unreal Engine 5
 - 📫 How to reach me: https://twitter.com/patient_lion | Discord: patientlion#0878
